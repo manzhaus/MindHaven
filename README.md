@@ -20,7 +20,7 @@ This project was developed as part of an academic and portfolio initiative to de
 - 📝 **Self-Assessment Tools**
   - Record your mental health score using certified self-assessment tools like PHQ-9 and GAD-7 with results history.
 - 📚 **Mental Health Resources**
-  - Access helpful information and support materials that allow user to save favourite resources.
+  - Access helpful information and support materials that allow user to save favourite resources and suggest new resources based on saved favourites.
 - 📱 **Responsive Design**
   - Optimized for desktops, tablets, and mobile devices.
 - 🗄️ **Database Integration**
@@ -103,21 +103,31 @@ http://localhost/MindHaven
 
 Add screenshots of your application here to showcase its interface.
 
-Page	Preview
+Page	Preview :
 
-Login Page	<img width="1898" height="868" alt="Screenshot 2025-07-11 204826" src="https://github.com/user-attachments/assets/da80dd5e-8b6d-495b-8735-a1ada857984f" />
+Login Page	 <img width="1919" height="868" alt="Screenshot 2025-07-11 205218" src="https://github.com/user-attachments/assets/fd0d69f5-8c43-4133-bdb6-f25fcc2b8e39" />
 
-Sign Up Page  <img width="627" height="860" alt="Screenshot 2025-07-11 205318" src="https://github.com/user-attachments/assets/59d930bf-be32-44fa-b11e-592bdb577bea" />
 
-Dashboard 	<img width="1902" height="864" alt="Screenshot 2025-07-11 213802" src="https://github.com/user-attachments/assets/07e32554-2062-4741-808f-c11ab43c8327" />
+Sign Up Page  
+<img width="627" height="860" alt="Screenshot 2025-07-11 205318" src="https://github.com/user-attachments/assets/83661031-dab7-427e-b6b9-b50e386546d9" />
 
-Chat Interface	<img width="1919" height="869" alt="Screenshot 2025-07-11 213021" src="https://github.com/user-attachments/assets/5a4617a0-bf87-4805-b76a-73cdaa1f452c" />
 
-Curated Resources Interface  <img width="1549" height="547" alt="Screenshot 2025-07-11 222345" src="https://github.com/user-attachments/assets/412559b6-f01d-4e27-abe3-1ceb12c7741d" />
-<img width="1544" height="867" alt="Screenshot 2025-07-11 222404" src="https://github.com/user-attachments/assets/c0daac21-111c-49fd-9374-0a25557a934e" />
+Dashboard 	<img width="1902" height="864" alt="Screenshot 2025-07-11 213802" src="https://github.com/user-attachments/assets/80f602d5-ceba-47d6-8283-73f222f0984a" />
 
-Self-Assesment Tools  <img width="1549" height="865" alt="Screenshot 2025-07-11 215357" src="https://github.com/user-attachments/assets/6f42bd17-e781-4025-8bbb-d1a09d84cf73" />
-<img width="1550" height="800" alt="Screenshot 2025-07-11 215447" src="https://github.com/user-attachments/assets/cc0eca86-243a-4661-bd71-5975f5625cd4" />
+
+Chat Interface	<img width="1919" height="869" alt="Screenshot 2025-07-11 213021" src="https://github.com/user-attachments/assets/4eec2e0d-0496-4348-b8cb-567ba17be528" />
+
+
+Curated Resources Interface  <img width="1549" height="547" alt="Screenshot 2025-07-11 222345" src="https://github.com/user-attachments/assets/7a0450b5-0b11-4b53-ad79-ef02c400160e" />
+<img width="1544" height="867" alt="Screenshot 2025-07-11 222404" src="https://github.com/user-attachments/assets/78887ea9-8c1e-41a1-b44a-1205bd998775" />
+
+
+Self-Assesment Tools  <img width="1549" height="865" alt="Screenshot 2025-07-11 215357" src="https://github.com/user-attachments/assets/ee89512a-8e44-40ff-a73e-b6812b06b94b" />
+<img width="1550" height="869" alt="Screenshot 2025-07-11 215415" src="https://github.com/user-attachments/assets/a4321793-5737-4c2e-9e71-396e28e2bda5" />
+<img width="1550" height="800" alt="Screenshot 2025-07-11 215447" src="https://github.com/user-attachments/assets/63440379-e3a1-4a87-8cda-d88a82f0e0f8" />
+
+
+
 
 
 
@@ -146,8 +156,11 @@ LinkedIn: https://www.linkedin.com/in/muhammad-fakhrul-iman/
 This project is developed for educational and portfolio purposes. You are free to use and modify it with proper attribution.
 
 💙 Acknowledgements
+
 Open-source development community
+
 Mental health awareness initiatives
-Academic mentors and peers who supported this project
+
+Academic mentors, family members and peers who supported me throughout this project
 
 ⭐ If you find this project useful, consider giving it a star on GitHub!
